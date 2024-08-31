@@ -1,0 +1,16 @@
+[tool.poetry]
+name = "ai-example"
+version = "0.1.0"
+description = ""
+authors = ["hjs <hjs9987@outlook.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.10"
+langchain = "^0.2.15"
+notebook = "^7.2.2"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
