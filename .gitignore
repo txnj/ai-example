@@ -13,8 +13,6 @@ test.py
 tg.config.json
 *.txt
 todo
-*.ipynb
-
 
 
 # Byte-compiled / optimized / DLL files
