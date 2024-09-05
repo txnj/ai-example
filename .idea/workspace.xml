@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a992f039-99f7-4f2d-bbf3-bf9cc8869ba4" name="更改" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pytorch_base/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pytorch_project/hello.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/ai-example.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/ai-example.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/jupyter-settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pytorch_project/tensor.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/pytorch_base/tensor.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pytorch_project/tensor_clamp.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/pytorch_base/tensor_clamp.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pytorch_project/tensor_compare.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/pytorch_base/tensor_compare.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pytorch_project/tensor_concat.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/pytorch_base/tensor_concat.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pytorch_project/tensor_function.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/pytorch_base/tensor_function.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pytorch_project/tensor_norm.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/pytorch_base/tensor_norm.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pytorch_project/tensor_op.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/pytorch_base/tensor_op.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pytorch_project/tensor_select_index.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/pytorch_base/tensor_select_index.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pytorch_project/tensor_slice.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/pytorch_base/tensor_slice.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pytorch_project/二维图像.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/pytorch_base/二维图像.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pytorch_project/张量.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/pytorch_base/张量.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pytorch_project/房价预测.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/pytorch_base/房价预测.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pytorch_project/温度计.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/pytorch_base/温度计.ipynb" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="2lejllvuhWPEUh7wirBRgCuPEm1" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/github/txnj/ai-example/pytorch_project",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\github\txnj\ai-example\pytorch_project" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\github\txnj\ai-example\pytorch_project" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-1d06a55b98c1-0b3e54e931b4-JavaScript-PY-241.18034.82" />
+        <option value="bundled-python-sdk-975db3bf15a3-2767605e8bc2-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-241.18034.82" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="a992f039-99f7-4f2d-bbf3-bf9cc8869ba4" name="更改" comment="" />
+      <created>1725547590362</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1725547590362</updated>
+      <workItem from="1725547591668" duration="328000" />
+      <workItem from="1725547932808" duration="752000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
