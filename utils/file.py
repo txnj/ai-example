@@ -16,7 +16,7 @@ def download_file(url: str, filename: str):
         print(f"下载文件时发生错误: {e}")
 
 
-def read_local_file(filename):
+def read_local_file(filename) -> str | None:
     try:
         with open(filename, 'r', encoding='utf-8') as file:
             content = file.read()
@@ -25,4 +25,3 @@ def read_local_file(filename):
     except IOError as e:
         print(f"读取文件时发生错误: {e}")
         return None
-
