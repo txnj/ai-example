@@ -5,12 +5,34 @@ description = ""
 authors = ["hjs <hjs9987@outlook.com>"]
 readme = "README.md"
 
+packages = [
+    { include = "ai_example" },
+    { include = "utils" },
+    { include = "pytorch_project" }
+]
+
 [tool.poetry.dependencies]
 python = "^3.10"
-langchain = "^0.2.15"
 notebook = "^7.2.2"
-
+numpy = ">=1.26.4,<2.0.0"
+opencv-python = "^4.10.0.84"
+torch = { version = "^2.4.1", source = "torch" }
+torchvision = { version = "^0.19.1", source = "torch" }
+torchaudio = { version = "^2.4.1", source = "torch" }
+h5py = "^3.11.0"
+imageio = "^2.35.1"
+matplotlib = "^3.9.2"
 
 [build-system]
 requires = ["poetry-core"]
 build-backend = "poetry.core.masonry.api"
+
+[[tool.poetry.source]]
+name = "torch"
+url = "https://download.pytorch.org/whl/cu118"
+priority = "supplemental"
+
+[[tool.poetry.source]]
+name = "tencent"
+priority = "primary"
+url = "https://mirrors.cloud.tencent.com/pypi/simple"
