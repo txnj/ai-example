@@ -124,7 +124,7 @@ celerybeat.pid
 
 # Environments
 .env
-.venv
+.venv/
 env/
 venv/
 ENV/
@@ -159,3 +159,5 @@ tmp/
 *.png
 media/*
 poetry.lock
+MNIST/
+data/flower_data/
