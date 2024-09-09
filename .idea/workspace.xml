@@ -5,27 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a992f039-99f7-4f2d-bbf3-bf9cc8869ba4" name="更改" comment="_">
-      <change afterPath="$PROJECT_DIR$/.idea/jupyter-settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/mnist.pkl.gz" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/temps.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_helper/CNN和RNN.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_helper/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_helper/jupyter.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_helper/jupyter_notebook_快捷键.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_helper/matplotlib.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_helper/pandas.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_helper/参数中的星号的作用.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pytorch_project/tensor.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pytorch_project/torchvision训练图像分类模型.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pytorch_project/卷积基础.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pytorch_project/求导-线性回归模型.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pytorch_project/神经网络分类任务.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pytorch_project/线性回归-气温预测.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/ai-example.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/ai-example.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_helper/tmp.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pyproject.toml" beforeDir="false" afterPath="$PROJECT_DIR$/pyproject.toml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pytorch_project/hello.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/pytorch_project/hello.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_helper/CNN和RNN.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/python_helper/CNN-RNN-GAN.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,6 +17,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="PerforceDirect.Settings">
+    <option name="CHARSET" value="无" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;customColor&quot;: &quot;&quot;,
@@ -103,7 +89,8 @@
       <workItem from="1725590578795" duration="23820000" />
       <workItem from="1725667751404" duration="8685000" />
       <workItem from="1725705353829" duration="15932000" />
-      <workItem from="1725774107100" duration="11516000" />
+      <workItem from="1725774107100" duration="13640000" />
+      <workItem from="1725837734943" duration="8256000" />
     </task>
     <task id="LOCAL-00001" summary="_">
       <option name="closed" value="true" />
@@ -113,7 +100,15 @@
       <option name="project" value="LOCAL" />
       <updated>1725548827901</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="_">
+      <option name="closed" value="true" />
+      <created>1725790279291</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1725790279291</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
