@@ -5,8 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a992f039-99f7-4f2d-bbf3-bf9cc8869ba4" name="更改" comment="_">
-      <change afterPath="$PROJECT_DIR$/transformer/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/transformer/BERT.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/transformer/first.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyproject.toml" beforeDir="false" afterPath="$PROJECT_DIR$/pyproject.toml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,9 +25,6 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-  </component>
-  <component name="PerforceDirect.Settings">
-    <option name="CHARSET" value="无" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;customColor&quot;: &quot;&quot;,
@@ -62,6 +62,7 @@
       <recent name="C:\github\txnj\ai-example\pytorch_project" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\github\txnj\ai-example\transformer\export" />
       <recent name="C:\github\txnj\ai-example\data" />
       <recent name="C:\github\txnj\ai-example\pytorch_project" />
     </key>
@@ -95,7 +96,8 @@
       <workItem from="1725667751404" duration="8685000" />
       <workItem from="1725705353829" duration="15932000" />
       <workItem from="1725774107100" duration="13640000" />
-      <workItem from="1725837734943" duration="8467000" />
+      <workItem from="1725837734943" duration="15333000" />
+      <workItem from="1725919034171" duration="4803000" />
     </task>
     <task id="LOCAL-00001" summary="_">
       <option name="closed" value="true" />
@@ -121,7 +123,15 @@
       <option name="project" value="LOCAL" />
       <updated>1725880717687</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="_">
+      <option name="closed" value="true" />
+      <created>1725880936528</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1725880936528</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

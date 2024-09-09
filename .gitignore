@@ -161,3 +161,4 @@ media/*
 poetry.lock
 MNIST/
 data/flower_data/
+export/
