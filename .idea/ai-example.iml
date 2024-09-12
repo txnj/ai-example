@@ -7,6 +7,7 @@
       <excludeFolder url="file://$MODULE_DIR$/data/flower_data" />
       <excludeFolder url="file://$MODULE_DIR$/python_helper/.ipynb_checkpoints" />
       <excludeFolder url="file://$MODULE_DIR$/pytorch_project/.ipynb_checkpoints" />
+      <excludeFolder url="file://$MODULE_DIR$/transformer/export" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
